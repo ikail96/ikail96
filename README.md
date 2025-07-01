@@ -10,7 +10,9 @@ I started my journey to coding six months ago, driven by a curiosity for technol
 
 - 🔭 I'm currently having seminars and courses on Web Development and WordPress.
 - 📝 I like reading books about astronomy, cosmology and physics
-- 💖 Proud mother of a little beautiful girl 
+- 💖 Proud mother of a little beautiful girl
+- ⌚️ Hysterical with gadgets
+  
 
 
 ## Tech Stack
@@ -23,7 +25,9 @@ I started my journey to coding six months ago, driven by a curiosity for technol
   - Trying to master Javascript
   - Exploring JQuery and React
   - Leaarning how to style pages with SASS
-  - Making responsive pages with Bootstrap
+  - Making responsive pages with Bootstrap and WordPress
+  - Searching and learning the world of coding
+  - Getting familiar with GitHub
   - Eager to reach the level of Full Stack Developer 
 
  
