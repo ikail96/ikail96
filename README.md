@@ -4,7 +4,7 @@
 
 I have just started my journey to coding, driven by a curiosity for technology and a love for problem solving. Right now I am  learning Javascript which I fancy a lot. I have good knowledge of HTML5, CSS, Bootstrap and a little SASS. 
 
-![<ikail96>'s Stats](https://github-readme-stats.vercel.app/api?username=<ikail96>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![ikail96's Stats](https://github-readme-stats.vercel.app/api?username=<ikail96>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 
 ## 🚀 About Me
