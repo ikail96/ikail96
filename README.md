@@ -20,7 +20,7 @@ I have just started my journey to coding, driven by a curiosity for technology a
 
 ## 🌱 Currently Exploring
 
-- 🚀 Learning Front-End Web Development
+ 🚀 Learning Front-End Web Development
   - Trying to master Javascript
   - Exploring JQuery and React
   - Leaarning how to style pages with SASS
