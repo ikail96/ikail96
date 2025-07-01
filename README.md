@@ -11,7 +11,7 @@ I have just started my journey to coding, driven by a curiosity for technology a
 
 - 🔭 I'm currently having seminars and courses on Web Development and WordPress.
 - 📝 I like reading books about astronomy, cosmology and physics
-- 🌐 Proud mother of a little beautiful girl 
+- 💖 Proud mother of a little beautiful girl 
 
 
 ## Tech Stack
