@@ -15,8 +15,7 @@ I have just started my journey to coding, driven by a curiosity for technology a
 
 
 ## Tech Stack
-[![My Skills]![image](https://github.com/user-attachments/assets/4c846852-a408-470d-916d-2fea9a51fe68)
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,wordpress)](https://skillicons.dev)
 
 
 ## 🌱 Currently Exploring
