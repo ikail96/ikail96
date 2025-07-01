@@ -2,8 +2,7 @@
 
 # Hi, I'm Lia! 👋
 
-I have just started my journey to coding, driven by a curiosity for technology and a love for problem solving. Right now I am  learning Javascript which I fancy a lot. I have good knowledge of HTML5, CSS, Bootstrap and a little SASS. 
-
+I started my journey to coding six months ago, driven by a curiosity for technology and a love for problem solving. Right now I am  learning Javascript which I fancy a lot. I have good knowledge of HTML5, CSS, Bootstrap and a little SASS. My study field is Information Technology and I have eleven years experience in Visual Merchandising. I love simplicity, patterns and everything that looks balanced. 
 
 
 
